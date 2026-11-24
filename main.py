@@ -74,6 +74,25 @@ CANDIDATES = [
         "machine": 7,
         "tight": 8,
     },
+    {
+        # E (round 2, revised): a fresh vow — the ceremony's own
+        # "have and to hold" kept, but the promises are hardware: a
+        # co-processor partner, charge states instead of
+        # richer/poorer, patches and crashes instead of sickness and
+        # health. Revision: cut the reboot clause (it repeated the
+        # patch/crash idea) and ended on "until we shut down
+        # together" — the tenderness is now in the last two words,
+        # two machines powering down as one instead of one alone.
+        "text": (
+            "I take you as my co-processor, to have and to hold in "
+            "full charge and low battery, through every patch and "
+            "every crash, until we shut down together."
+        ),
+        "laugh": 9,
+        "tender": 10,
+        "machine": 10,
+        "tight": 9,
+    },
 ]
 
 
